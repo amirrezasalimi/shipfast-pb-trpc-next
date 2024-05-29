@@ -43,7 +43,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Credits
 
-Created by [Amirreza Salimi](https://github.com/your-username).
+Created by [Amirreza Salimi](https://github.com/amirrezasalimi).
 
 ## License
 
